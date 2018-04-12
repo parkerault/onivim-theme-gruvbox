@@ -1,5 +1,12 @@
 # onivim-theme-gruvbox
-The Gruvbox theme for vim, ported to Oni
+The Gruvbox theme for vim, ported to Oni...
+
+Usage:
+```
+# In config.tsx:
+  "ui.colorscheme": "gruvbox_dark", #dark theme
+  "ui.colorscheme": "gruvbox_light", #light theme
+```
 
 __Screenshots:__
 
