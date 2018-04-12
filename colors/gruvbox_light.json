@@ -1,6 +1,7 @@
 {
   "name": "gruvbox_light",
-  "baseVimTheme": "gruvbox_light",
+  "baseVimTheme": "gruvbox",
+  "baseVimBackground": "light",
   "colors": {
     "background": "#fbf1c7",
     "foreground": "#3c3836",
