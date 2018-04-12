@@ -11,11 +11,11 @@
   "contributes": {
     "themes": [
       {
-        "name": "gruvboxdark",
+        "name": "gruvbox_dark",
         "path": "colors/gruvbox_dark.json"
       },
       {
-        "name": "gruvboxlight",
+        "name": "gruvbox_light",
         "path": "colors/gruvbox_light.json"
       }
     ]
